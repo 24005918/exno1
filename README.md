@@ -28,6 +28,11 @@ OUTLIER DETECTION:
 ![{9F3FC47E-7693-4A9B-99BB-DD56FB28DCC9}](https://github.com/user-attachments/assets/5221477a-1e43-49a3-ab9b-47a7e0199163)
 ![{729B3983-E950-4D1D-97D9-2999CEADA579}](https://github.com/user-attachments/assets/49c85c0b-62b0-4860-a129-9bef0b5a2515)
 ![{E8F42752-5014-4D0C-A745-11A2B2454062}](https://github.com/user-attachments/assets/24b7bb48-2f56-40eb-8044-90739e61f927)
+![{BFE18762-48AD-4512-9592-E1444FC140B4}](https://github.com/user-attachments/assets/1a1c1ffb-99b0-4a85-ba98-244df1215600)
+![{8DB350A7-7935-4ED0-807B-ED5C8AF9D865}](https://github.com/user-attachments/assets/b531af58-d93d-4ae5-8461-7a26c0eac774)
+![{4468DFD0-6E20-434B-B6A7-07B57AB850DE}](https://github.com/user-attachments/assets/64f5c06c-c79e-4690-80ce-ffe87a0756c5)
+
+
 
 
 
